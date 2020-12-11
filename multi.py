@@ -1,6 +1,8 @@
 from random import *
 
-puntos = 0
+
+
+puntos = 1
 
 for rr in range(0,10):
     a = randint(5,10)
